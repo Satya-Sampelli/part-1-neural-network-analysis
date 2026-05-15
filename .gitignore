@@ -3,3 +3,11 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
+# Data files
+customer_churn_nn.csv
+data_dictionary.md
+
+# Python/Environment (already there)
+_pycache_/
+venv/
+.env
